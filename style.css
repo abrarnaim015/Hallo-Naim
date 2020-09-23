@@ -1,0 +1,17 @@
+body{
+    background-image: url("background.jpg");
+}
+
+.bigBox{
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+}
+.paragraf-1{
+    background-color: gray;
+    opacity: 0.8;
+    margin-right: 40px;
+    text-align: justify;    
+    border-radius: 2%;
+    padding: 10px 10px 20px 10px;
+}
