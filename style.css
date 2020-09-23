@@ -1,17 +1,57 @@
 body{
-    background-image: url("background.jpg");
+    background-image: url('back2.jpg');
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: white;
 }
 
-.bigBox{
-    color: whitesmoke;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-style: normal;
+img{
+    width: 30px;
+    background-color: purple;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 150px;
+    margin-right: 10px;
 }
-.paragraf-1{
-    background-color: gray;
-    opacity: 0.8;
-    margin-right: 40px;
-    text-align: justify;    
-    border-radius: 2%;
-    padding: 10px 10px 20px 10px;
+
+#gambar1{
+    margin-left: 38%;
+}
+
+.judul{
+    color: darkgray;
+    font-size: 100px;
+    padding-top: 100px;
+    margin-bottom: -90px;
+    text-align: center;
+}
+
+.bar-kiri{
+    background-color: purple;
+    opacity: 0.6;
+    padding: 8px;
+    padding-left: 50px;
+    word-spacing: 10px;
+}
+
+.bar-kanan{
+    text-align: right;
+    initial-letter: ;
+}
+
+.id{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: -100px;
+
+}
+
+.deskripsi{
+    color: whitesmoke;
+    font-size: 12px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
 }
